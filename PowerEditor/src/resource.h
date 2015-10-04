@@ -26,7 +26,7 @@
 // Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 #pragma once
 
-#define NOTEPAD_PLUS_VERSION TEXT("Notepad++ v6.8.3")
+#define NOTEPAD_PLUS_VERSION TEXT("SpookyText v6.8.3")
 
 
 // should be X.Y : ie. if VERSION_DIGITALVALUE == 4, 7, 1, 0 , then X = 4, Y = 71
